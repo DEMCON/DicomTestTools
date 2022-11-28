@@ -1,5 +1,4 @@
-# DVTk
-DICOM Test Tools
+# DICOM Test Tools
 
 This GitHub project contains a fork of the DVTk (DICOM Validation Toolkit) Open Source project.
 
