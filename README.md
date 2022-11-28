@@ -1,6 +1,6 @@
 # DVTk
-DICOM Validation Toolkit
+DICOM Test Tools
 
-This GitHub project contains the complete and latest source code of the DVTk (DICOM Validation Toolkit) Open Source project. The Windows installers and forum are located on [https://www.dvtk.org/](https://www.dvtk.org/).
+This GitHub project contains a fork of the DVTk (DICOM Validation Toolkit) Open Source project.
 
-Note that the DVTk library and DVTk based applications are **not** for clinical use, they are only meant for testing purposes!
+Note that the DICOM Test Tools (library and applications) are **not** for clinical use, they are only meant for testing purposes!
